@@ -1,0 +1,5 @@
+# Python / IDE files
+.venv/
+.idea/
+__pycache__/
+~$*
